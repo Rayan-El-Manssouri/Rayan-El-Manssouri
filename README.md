@@ -11,5 +11,4 @@ Je souhaiterais devenir dévellopeur.
 ![HTML Icon](https://img.icons8.com/color/60/html-5--v1.png)
 ![CSS Icon](https://img.icons8.com/color/60/css3.png)
 ![JavaScript Icon](https://img.icons8.com/color/60/javascript--v1.png)
-![php Icon](https://www.php.net/images/logos/php-logo-bigger.png)
 
