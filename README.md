@@ -17,3 +17,8 @@ Je souhaiterais devenir dévellopeur.
 
 ## Plus tard :
 ![Python Icon](https://img.icons8.com/color/60/python--v1.png)  
+
+## Mes souhaits ?
+Je souhaite devenir dévellopeur en site web , monter mes premiers site qui seront visible sur le profil. 
+Je me cherche a me spécialer surtout dans le php qui est un excellent language trés passionnant.
+
