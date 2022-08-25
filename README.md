@@ -1,32 +1,22 @@
-# Bievenue sur mon profil github ! 🖖
+# Bienvenue sur mon profil github ! 🖖
 
-## Qui je suis ?
-J'ai 17 ans, j'habite en france.
+## Qui suis-je ?
+J'ai 17 ans et j'habite en France.
+Passionné de programmation, j'ai actuellement 1 ans d'expérience. Je souhaite devenir développeur.
+Actuellement, je construits mes premiers projets avec PHP que vous pourrez voir ci-dessous.
 
-Actuellement 1 ans d'éxperience est passioner du code.
+## Les langages que je connais
+![Icône HTML](https://img.icons8.com/color/60/html-5--v1.png)
+![Icône CSS](https://img.icons8.com/color/60/css3.png)
+![Icône PHP](https://img.icons8.com/offices/60/php-logo.png)
 
-Je souhaiterais devenir dévellopeur.
-
-## Mes languages favoris :
-![HTML Icon](https://img.icons8.com/color/60/html-5--v1.png)
-![CSS Icon](https://img.icons8.com/color/60/css3.png)
-
-## Mon laguage favorit :
-![Php Icon](https://www.php.net/images/logos/new-php-logo.png)
-
-## Plus tard :
-![Python Icon](https://img.icons8.com/color/60/python--v1.png)  
-![JavaScript Icon](https://img.icons8.com/color/60/javascript--v1.png)
-
-
-## Mes souhaits ?
-Je souhaite devenir dévellopeur en site web , monter mes premiers site qui seront visible sur le profil. 
-Je me cherche a me spécialer surtout dans le php qui est un excellent language trés passionnant.
+### Les langages que j'apprends
+![Icône C++](https://img.icons8.com/color/60/c-plus-plus-logo.png)
+![Icône Python](https://img.icons8.com/color/60/python--v1.png)
+![Icône JavaScript](https://img.icons8.com/color/60/javascript--v1.png)
 
 ## Mes réseaux :
-Instagram : https://www.instagram.com/rayan_el_man
-
-Youtube : https://www.youtube.com/channel/UCxq9hV5F9u0lvLjj9-i-pQg
-
-Tweeter : https://twitter.com/rayan_el_man
+[![Icône Instagram](https://img.icons8.com/color/60/instagram-new--v1.png)](https://www.instagram.com/rayan_el_man)
+[![Icône Youtube](https://img.icons8.com/color/60/youtube-play.png)](https://www.youtube.com/channel/UCxq9hV5F9u0lvLjj9-i-pQg)
+[![Icône Twitter](https://img.icons8.com/color/60/twitter--v1.png)](https://twitter.com/rayan_el_man)
 
