@@ -20,4 +20,4 @@ Actuellement, je construits mes premiers projets avec PHP que vous pourrez voir 
 [![Icône Youtube](https://img.icons8.com/color/60/youtube-play.png)](https://www.youtube.com/channel/UCxq9hV5F9u0lvLjj9-i-pQg)
 [![Icône Twitter](https://img.icons8.com/color/60/twitter--v1.png)](https://twitter.com/rayan_el_man)
 
-[![Rayan-El-Manssouri GitHub stats](https://github-readme-stats.vercel.app/api?username=Rayan-El-Manssouri)
+![Rayan-El-Manssouri GitHub stats](https://github-readme-stats.vercel.app/api?username=Rayan-El-Manssouri)
