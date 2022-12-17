@@ -1,12 +1,18 @@
+:root{
+    --Left-Image-section: 5px;
+}
+
 *{
     box-sizing: border-box;
     margin: 0;
     padding: 0;
     font-family: "Gill Sans", sans-serif;
-    
-    
 }
 
+body{
+    width: 100%;
+    overflow-x: hidden;
+}
 
 .profil{
     background: linear-gradient(#2964D9, #11D9C5);
@@ -113,3 +119,69 @@ header ul li i{
 header ul li i:hover{
     border: 1px solid #333;
 }
+
+
+/* Fin du header */
+
+.projets{
+    position: relative;
+    z-index: 4;
+    text-align: center;
+    display: inline;
+    color: #333;
+    left: 500px;
+    top: 10px;
+}
+
+.projets h3{
+    text-align: left;
+    position: relative;
+    left: 25%;
+}
+
+.section_projets{
+    display: inline-block;
+}
+
+section{
+    padding: 10px;
+    border: 1px solid #0a54e7;
+    width: 500px;
+    height: 600px;
+    position: relative;
+    top: 20px;
+    border-radius: 20px;
+    padding: 20px;
+    transition: all 0.35s ease;
+    left: var(--Left-Image-section);
+}
+
+section:hover{
+    background-color: #4a505e;
+}
+
+.section_projets img{
+    width: 300px;
+}
+
+.siv{
+    position: relative;
+    left: -20px;
+}
+
+.pdf2html{
+    position: relative;
+    left: 40px;
+}
+
+
+
+/* footer */
+footer{
+    background: linear-gradient(#11D9C5 , #2964D9 );
+    position: relative;
+    bottom:0 ;
+    top: 50px;
+    width: 100%;
+}
+
