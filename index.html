@@ -18,6 +18,14 @@
             <li><a href=""><i class="fa-brands fa-youtube"></i></a></li>
         </ul>
     </header>
+    <nav id="nav">
+        <img src="src/logo.png" >
+        <ul>
+            <li><a href="">Mes projets</a></li>
+            <li><a href="">Partenaires</a></li>
+            <li><a href="">Nous contacter</a></li>
+        </ul>
+    </nav>
     <div class="contenue">
             <div class="profil">
                 <div class="profil_github">
@@ -47,28 +55,47 @@
     </div>
    
     <footer>
-       <div class="contact">
-            <h3>Nous contacter</h3>
-            <p>Gmail : liviackerman69@gmail.com</p>
-       </div>
-       <div class="project">
-            <h3>Nos projet :</h3>
-            <ul>
-                <li>Siv</li>
-                <li>Pdf2Html</li>
-                <li>Sinara</li>
-            </ul>
-       </div>
-       <div class="reseaux">
-            <h3>Nos reseaux</h3>
-            <ul>
-                <li><a href="https://github.com/Rayan-El-Manssouri" target="_blank"><i class="fa-brands fa-github"></i></a></li>
-                <li><a href=""><i class="fa-brands fa-instagram"></i></a></li>
-                <li><a href=""><i class="fa-brands fa-facebook"></i></a></li>
-                <li><a href=""><i class="fa-brands fa-twitter"></i></a></li>
-                <li><a href=""><i class="fa-brands fa-youtube"></i></a></li>
-            </ul>
+        <div class="contenue_footer">
+            <img src="./src/logo.png"  >
+            <div class="contact">
+                <h3>Nous contacter</h3>
+                <p>Gmail : liviackerman69@gmail.com</p>
+                <textarea name="" id="" cols="40" placeholder="Envoyer nous un mail !"></textarea>
+           </div>
+           <div class="project">
+                <h3>Nos projet :</h3>
+                <ul>
+                    <li>Siv</li>
+                    <li>Pdf2Html</li>
+                    <li>Sinara</li>
+                </ul>
+           </div>
+           <div class="reseaux">
+                <h3>Nos reseaux</h3>
+                <ul>
+                    <li><a href="https://github.com/Rayan-El-Manssouri" target="_blank"><i class="fa-brands fa-github"></i></a></li>
+                    <li><a href=""><i class="fa-brands fa-instagram"></i></a></li>
+                    <li><a href=""><i class="fa-brands fa-facebook"></i></a></li>
+                    <li><a href=""><i class="fa-brands fa-twitter"></i></a></li>
+                    <li><a href=""><i class="fa-brands fa-youtube"></i></a></li>
+                </ul>
+            </div>
+            <div class="don">
+                <h3>Nous faire un don :</h3>
+                <i class="fa-brands fa-paypal"></i><a href="">Paypal.Me</a>
+            </div>
         </div>
     </footer>
+    <script type="text/javascript">
+            const nav = document.getElementById("nav");
+            window.addEventListener('scroll', () => {
+                if(window.scrollY > 0){
+                    nav.classList.add("nav_sticky")
+                }
+                else{
+                    nav.classList.remove("nav_sticky")
+                }
+            })
+    </script>
 </body>
 </html>

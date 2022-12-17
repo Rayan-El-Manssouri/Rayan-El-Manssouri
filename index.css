@@ -14,6 +14,10 @@ body{
     overflow-x: hidden;
 }
 
+.contenue{
+    flex: 1 0 auto;
+}
+
 .profil{
     background: linear-gradient(#2964D9, #11D9C5);
     height: 1000px;
@@ -78,7 +82,8 @@ body{
 
 /* Header */
 header{
-    background-color: #0a54e7;
+    background-color: #224283;
+    border-right: 1px solid black;
     display: flex;
     position: fixed;
     top: 0;
@@ -178,10 +183,148 @@ section:hover{
 
 /* footer */
 footer{
-    background: linear-gradient(#11D9C5 , #2964D9 );
+    flex-shrink: 0;
+    border-top: 1px solid #11D9C5;
+    background: linear-gradient(#11D9C5, #2964D9);
+    color: #fff;
     position: relative;
-    bottom:0 ;
     top: 50px;
-    width: 100%;
 }
 
+
+footer .contenue_footer{
+    width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    font-size: 20px;
+    padding: 50px 0 100px;
+}
+
+footer div{
+    padding: 30px;
+    position: relative;
+    top: 0;
+    left: 50px;
+}
+
+
+footer img{
+    position: absolute;
+    width: 300px;
+    text-align: left;
+    left: -180px;
+    top: 0;
+}
+
+
+footer ul{
+    list-style: none;
+}
+
+footer ul li{
+    padding: 10px;
+}
+
+footer .reseaux ul li{
+    display: inline-block;
+    padding: 10px;
+}
+
+footer .reseaux ul li i{
+    color: #fff;
+    transition: all 0.35s ease;
+    font-size: 30px;
+}
+
+footer .reseaux ul li i:hover{
+    color: #000;
+}
+
+footer .contact p{
+    position: relative;
+    top: 15px;
+}
+
+footer .contact textarea{
+    position: relative;
+    top: 30px;
+}
+
+footer .don i:hover{
+    transition: all 0.35s ease;
+    cursor: pointer;
+    color: #000;
+}
+
+footer .don i{
+    font-size: 30px;
+    position: relative;
+    top: 6px;
+}
+
+footer .don a{
+    text-decoration: none;
+    position: relative;
+    left: 20px;
+    color: #fff;
+}
+
+/* Deuxiéme header */
+nav{
+    position: fixed;
+    z-index: 5;
+    width: 100%;
+    height: 80px;
+    transition: all 0.35s ease;
+}
+
+nav.nav_sticky{
+    transition: all 0.35s ease;
+    height: 50px;
+    background-color: #fff;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+nav.nav_sticky ul li a{
+    color: #000;
+    position: relative;
+    top: 17px;
+}
+
+nav.nav_sticky ul li a:hover{
+    color: #0a54e7;
+}
+
+nav ul{
+    list-style: none;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    right: 0;
+    text-align: center;
+
+}
+
+nav ul li{
+    display: inline;
+    padding: 10px;
+    width: 100%;
+    position: relative;
+}
+
+nav ul li a{
+    color: #fff;
+    padding: 10px;
+    text-decoration: none;
+    position: relative;
+    top: 30px;
+    transition: all 0.35s ease;
+
+}
+
+nav img{
+    width: 50px;
+    position: fixed;
+}
