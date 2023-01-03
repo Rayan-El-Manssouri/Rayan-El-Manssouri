@@ -1,21 +1,19 @@
-# Bienvenue sur mon profil github ! 🖖
+# Welcome to my github profile! 🖖
 
-## Qui suis-je ?
-J'ai 17 ans et j'habite en France.
-Passionné de programmation, j'ai actuellement 1 ans d'expérience. Je souhaite devenir développeur.
-Actuellement, je construits mes premiers projets avec PHP que vous pourrez voir ci-dessous.
+## Who am I ?
+I am 17 years old and I live in France. Passionate about programming, I currently have 1 years of experience. I want to become a developer. Currently, I'm building my first projects with PHP which you can see below.
 
-## Les langages que je connais
+## The languages ​​I know
 ![Icône HTML](https://img.icons8.com/color/60/html-5--v1.png)
 ![Icône CSS](https://img.icons8.com/color/60/css3.png)
 ![Icône PHP](https://img.icons8.com/offices/60/php-logo.png)
 
-### Les langages que j'apprends
+### The languages ​​I learn
 ![Icône C++](https://img.icons8.com/color/60/c-plus-plus-logo.png)
 ![Icône Python](https://img.icons8.com/color/60/python--v1.png)
 ![Icône JavaScript](https://img.icons8.com/color/60/javascript--v1.png)
 
-## Mes réseaux :
+## My networks:
 [![Icône Instagram](https://img.icons8.com/color/60/instagram-new--v1.png)](https://www.instagram.com/rayan_el_man)
 [![Icône Youtube](https://img.icons8.com/color/60/youtube-play.png)](https://www.youtube.com/channel/UCxq9hV5F9u0lvLjj9-i-pQg)
 [![Icône Twitter](https://img.icons8.com/color/60/twitter--v1.png)](https://twitter.com/rayan_el_man)
