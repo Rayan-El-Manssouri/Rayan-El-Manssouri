@@ -8,7 +8,7 @@ I am 17 years old and I live in France. Passionate about programming, I currentl
 ![Icône CSS](https://img.icons8.com/color/60/css3.png)
 ![Icône PHP](https://img.icons8.com/offices/60/php-logo.png)
 
-### The languages ​​I learn
+## The languages ​​I learn
 <div style="display: inline;">
     <img src="./src/logo_react.png" width="60" height="60" >
     <img src="https://img.icons8.com/color/60/c-plus-plus-logo.png" width="60" height="60" >
