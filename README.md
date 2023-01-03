@@ -10,9 +10,9 @@ I am 17 years old and I live in France. Passionate about programming, I currentl
 
 ### The languages ​​I learn
 <img src="./src/logo_react.png" width="60" height="60" >
-![Icône C++](https://img.icons8.com/color/60/c-plus-plus-logo.png)
-![Icône Python](https://img.icons8.com/color/60/python--v1.png)
-![Icône JavaScript](https://img.icons8.com/color/60/javascript--v1.png)
+<img src="https://img.icons8.com/color/60/c-plus-plus-logo.png" width="60" height="60" >
+<img src="https://img.icons8.com/color/60/python--v1.png" width="60" height="60" >
+<img src="https://img.icons8.com/color/60/javascript--v1.png" width="60" height="60" >
 
 ## My networks:
 [![Icône Instagram](https://img.icons8.com/color/60/instagram-new--v1.png)](https://www.instagram.com/rayan_el_man)
