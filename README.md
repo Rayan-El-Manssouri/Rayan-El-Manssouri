@@ -24,9 +24,9 @@ I am 17 years old and I live in France. Passionate about programming, I currentl
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=Rayan-El-Manssouri)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rayan-El-Manssouri)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=Rayan-El-Manssouri&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rayan-El-Manssouri&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <p align="center"> 
