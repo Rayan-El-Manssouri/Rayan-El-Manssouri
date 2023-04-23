@@ -19,7 +19,6 @@ I am 17 years old and I live in France. Passionate about programming, I currentl
 ## My networks:
 [![Icône Instagram](https://img.icons8.com/color/60/instagram-new--v1.png)](https://www.instagram.com/rayan_el_man)
 [![Icône Youtube](https://img.icons8.com/color/60/youtube-play.png)](https://www.youtube.com/channel/UCxq9hV5F9u0lvLjj9-i-pQg)
-[![Icône Twitter](https://img.icons8.com/color/60/twitter--v1.png)](https://twitter.com/rayan_el_man)
 
 
 
