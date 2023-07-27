@@ -1,7 +1,7 @@
 # Welcome to my github profile! 🖖
 
 ## Who am I ?
-I am 18 years old and I live in France. Passionate about programming, I currently have 1 years of experience. I want to become a developer. Currently, I'm building my first projects with PHP which you can see below.
+I am 18 years old and I live in France. Passionate about programming, I currently have 2 years of experience. I want to become a developer. Currently, I'm building my first projects with PHP which you can see below.
 
 ## The languages ​​I know
 ![Icône HTML](https://img.icons8.com/color/60/html-5--v1.png)
