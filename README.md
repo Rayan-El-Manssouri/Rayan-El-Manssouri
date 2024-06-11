@@ -8,13 +8,14 @@ I am 19 years old and I live in France. Passionate about programming, I currentl
 ![Icône CSS](https://img.icons8.com/color/60/css3.png)
 ![Icône PHP](https://img.icons8.com/offices/60/php-logo.png)
 ![Icône Js](https://cdn.iconscout.com/icon/free/png-512/free-node-js-1174925.png?f=webp&w=60)
-
+<img src="https://img.icons8.com/color/60/javascript--v1.png" width="60" height="60" > 
+ 
 ## The languages ​​I learn
 <div style="display: inline;">
     <img src="./src/logo_react.png" width="60" height="60" >
     <img src="https://img.icons8.com/color/60/c-plus-plus-logo.png" width="60" height="60" >
     <img src="https://img.icons8.com/color/60/python--v1.png" width="60" height="60" >
-    <img src="https://img.icons8.com/color/60/javascript--v1.png" width="60" height="60" >    
+      
 </div>
 
 ## My networks:
